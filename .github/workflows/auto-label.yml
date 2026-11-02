@@ -18,7 +18,7 @@ jobs:
       - name: Checkout PR configuration
         uses: actions/checkout@v7
       - name: Label PR from files and branch name
-        uses: actions/labeler@v6
+        uses: actions/labeler@v7
         with:
           sync-labels: false
 
