@@ -43,7 +43,7 @@
     "react-day-picker": "^10.0.2",
     "react-dom": "^19.0.0",
     "react-resizable-panels": "^4.15.2",
-    "recharts": "3.8.0",
+    "recharts": "3.10.1",
     "shadcn": "^4.23.0",
     "shiki": "^4.5.0",
     "simple-icons": "16.36.0",
